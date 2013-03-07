@@ -1,0 +1,3 @@
+D:\Hudson\Build\SampleMvcApp.dll
+D:\Gitanjali\VS2012\SampleMvcApp\SampleMvcApp\obj\Release\SampleMvcApp.csprojResolveAssemblyReference.cache
+D:\Gitanjali\VS2012\SampleMvcApp\SampleMvcApp\obj\Release\SampleMvcApp.dll
